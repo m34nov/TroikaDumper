@@ -11,6 +11,8 @@ HTC One M8
 HTC One M9
 HTC One Max
 HUAWEI ASCENT P7
+Google Nexus 5
+Google Nexus 5x
 Google Nexus 7 (2012 c NXP PN65)
 Lenovo Sisley S90
 Lenovo VIBE Z2
